@@ -68,17 +68,3 @@ button:hover {
   background-color: hsl(300, 69%, 71%);
   cursor: pointer;
   }
-
-  .icon {
-  display: grid;
-  grid-template-columns: 30px 30px 30px;
-  gap: 10px;
-  list-style: none;
-  max-width: 5%;
-  color-scheme: white;
-  filter: invert(0.5);
-  filter:  brightness(0) invert(1);
-  transform: translate(340px, 180px);
-  }
-
-

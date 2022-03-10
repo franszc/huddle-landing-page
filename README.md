@@ -12,7 +12,7 @@
 
 ### Screenshot
 
-![screenshot](./images/pagescreenshot.png)
+![screenshot](./images/screenshotpage.png)
 
 ### Links
 
