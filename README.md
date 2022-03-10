@@ -16,8 +16,8 @@
 
 ### Links
 
-- URL da solução: []
-- URL do site ao vivo: []
+- URL da solução: [https://github.com/franszc/huddle-landing-page]
+- URL do site ao vivo: [https://franszc.github.io/huddle-landing-page/]
 
 ### Build with
 
@@ -26,4 +26,4 @@
 
 ## author
 
-- Mentor Frontend -
+- Mentor Frontend - (@franszc) [https://www.frontendmentor.io/profile/franszc]
