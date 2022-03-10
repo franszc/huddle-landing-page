@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2? family= Poppins:ital,wght@0,600;1,400 & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Open+Sans & display=swap');
+
+body {
+  background-image: url(./images/bg-desktop.svg);
+  background-repeat: no-repeat;
+  background-color: hsl(257, 40%, 49%) ;
+  justify-items: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.logo {
+  padding: 50px 0px 0px 50px;
+}
+
+.illustration {
+  margin: 185px 0px 0px 60px;
+   display: block;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  margin-top: -160px;
+  
+}
+
+.text {
+  padding-top: 20px;
+  padding-right: 120px;
+  padding-bottom: 0px;
+  padding-left: 40px;
+  text-align: left;
+  position: relative;
+  display: grid;
+  align-content: center;
+  justify-items: left;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-size: 35px;
+  line-height: 1.5;
+    
+}
+
+p {
+  margin-top: -10px;
+  color: white;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+button {
+  width: 35%;
+  height: 250%;
+  border-radius: 20px;
+  border: none;
+  color: hsl(257, 40%, 49%);
+  font-weight: 400;
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+}
+
+button:hover {
+  background-color: hsl(300, 69%, 71%);
+  cursor: pointer;
+  }
+
+  .icon {
+  display: grid;
+  grid-template-columns: 30px 30px 30px;
+  gap: 10px;
+  list-style: none;
+  max-width: 5%;
+  color-scheme: white;
+  filter: invert(0.5);
+  filter:  brightness(0) invert(1);
+  transform: translate(340px, 180px);
+  }
+
+
